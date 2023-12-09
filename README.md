@@ -7,7 +7,6 @@ Hey there! 👋 I'm Anumalla Karthikeyan, or Karthiknot if you prefer. I'm a mac
 - 🌱 Currently Learning about AI and Deep learning
 - 🤖 Looking forward to colaborate on ML and DL Projects.
 - 🎮 Hobbies are Gaming, Gaming and Gaming.
--
 
 
 <h2> Connect with me: </h2>
@@ -25,6 +24,3 @@ Hey there! 👋 I'm Anumalla Karthikeyan, or Karthiknot if you prefer. I'm a mac
 <img align="left" width="55px" alt=" " style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
 <img align="left" width="55px" alt=" " style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
 <img align="left" width="55px" alt=" " style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg">
-<img align="left" width="55px" alt=" " style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-<img align="left" width="55px" alt=" " style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-<img align="left" width="55px" alt=" " style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
