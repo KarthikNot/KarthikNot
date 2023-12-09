@@ -12,7 +12,7 @@ Hey there! 👋 I'm Anumalla Karthikeyan, or Karthiknot if you prefer. I'm a mac
 
 <h2> Connect with me: </h2>
 
-<a href><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg">
+<a href="https://www.linkedin.com/in/karthikeyan-anumalla-b62bb9281/"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg">
 
 <h2> 🧰 Languages and Tools </h2>
 
