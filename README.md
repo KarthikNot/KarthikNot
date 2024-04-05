@@ -2,7 +2,7 @@
 
 `Wanna be Data Scientist (Machine Learning Enthusiast/Gamer)` 
 
-Hey there! 👋 I'm Anumalla Karthikeyan, or Karthiknot if you prefer. I'm a machine learning enthusiast, diving into the fascinating realms of AI. Passionate about coding, I love exploring tech and turning ideas into reality. Check out my repositories, and let's collaborate on some exciting machine learning projects 🚀.
+Hey there! 👋 I'm Anumalla Karthikeyan, or Karthik if you prefer. I'm a machine learning enthusiast, diving into the fascinating realms of AI. Passionate about coding, I love exploring tech and turning ideas into reality. Check out my repositories, and let's collaborate on some exciting machine learning projects 🚀.
 
 - 🌱 Currently Learning about AI and Deep learning
 - 🤖 Looking forward to colaborate on ML and DL Projects.
