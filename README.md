@@ -6,7 +6,7 @@ Hey there! 👋 I'm Anumalla Karthikeyan, or Karthik if you prefer. I'm a machin
 
 - 🌱 Currently Learning about AI and Deep learning
 - 🤖 Looking forward to colaborate on ML and DL Projects.
-- 🎮 Hobbies are Gaming, Gaming and Gaming.
+- 🎮 Hobbies are Gaming, Exploring Computer Tech.
 
 
 <h2> Connect with me: </h2>
