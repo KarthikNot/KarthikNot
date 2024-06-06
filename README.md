@@ -1,6 +1,5 @@
 <h1> Hello there, I'm Anumalla Karthikeyan - <a href="https://github.com/KarthikNot">KarthikNot</a> 👋</h1>
 
-`Data Scientist Intern @ Exposys Data Labs`
 `Artificial Intelligence and Machine Learning Enthusiast` 
 
 Hey there! 👋 I'm Anumalla Karthikeyan, or Karthik if you prefer. I'm a machine learning enthusiast, diving into the fascinating realms of AI. Passionate about coding, I love exploring tech and turning ideas into reality. Check out my repositories, and let's collaborate on some exciting machine learning projects 🚀.
