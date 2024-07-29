@@ -23,3 +23,5 @@ Hey there! 👋 I'm Anumalla Karthikeyan, or Karthik if you prefer. I'm a machin
 <img align="left" width="55px" alt=" " style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
 <img align="left" width="55px" alt=" " style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
 <img align="left" width="55px" alt=" " style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg">
+
+![KarthikNot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarthikNot&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
