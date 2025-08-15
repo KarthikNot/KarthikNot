@@ -1,6 +1,6 @@
 <h1> Hello there, I'm Anumalla Karthikeyan - <a href="https://github.com/KarthikNot">KarthikNot</a> 👋</h1>
 
-`Artificial Intelligence and Machine Learning Enthusiast`
+`Aspiring Data Scientist`
 
 Hey there! 👋 I'm Anumalla Karthikeyan. I'm a aspiring Data Scientisht, diving into the fascinating realms of AI. Passionate about coding, I love exploring tech and turning ideas into reality. Check out my repositories, and let's collaborate on some exciting machine learning projects 🚀.
 
