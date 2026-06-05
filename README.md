@@ -131,11 +131,11 @@ Passionate about building intelligent systems, from training models to deploying
 ## GitHub Stats
  
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KarthikNot&theme=gruvbox" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KarthikNot&theme=gruvbox" height="128"/>
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KarthikNot&theme=gruvbox&utcOffset=5.5" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KarthikNot&theme=gruvbox&utcOffset=5.5" height="128"/>
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KarthikNot&theme=gruvbox" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KarthikNot&theme=gruvbox" height="128"/>
 </div>
 <br/>
 <div align="center">
@@ -157,6 +157,10 @@ Passionate about building intelligent systems, from training models to deploying
   &nbsp;
   <a href="https://github.com/KarthikNot">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:anumallakarthikeyan03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
