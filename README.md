@@ -131,15 +131,15 @@ Passionate about building intelligent systems, from training models to deploying
 ## GitHub Stats
  
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KarthikNot&theme=tokyonight" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KarthikNot&theme=gruvbox" height="165"/>
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KarthikNot&theme=tokyonight&utcOffset=5.5" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KarthikNot&theme=gruvbox&utcOffset=5.5" height="165"/>
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KarthikNot&theme=tokyonight" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KarthikNot&theme=gruvbox" height="165"/>
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KarthikNot&theme=tokyonight" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KarthikNot&theme=monokai" width="100%"/>
 </div>
 
 ---
